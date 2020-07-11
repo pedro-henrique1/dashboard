@@ -7,8 +7,21 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
+    <link
+      rel="stylesheet"
+      href="/public/assets/fonts/Roboto/Roboto-Medium.ttf"
+    />
+    <link
+      rel="stylesheet"
+      href="/public/assets/fonts/Ubuntu/Ubuntu-Medium.ttf"
+    />
+    <link
+      rel="stylesheet"
+      href="/public/assets/fonts/Barlow/Barlow-Medium.ttf"
+    />
     <link rel="stylesheet" href="/public/assets/css/reset.css" />
     <link rel="stylesheet" href="/public/assets/css/header/menu.css" />
+    <link rel="stylesheet" href="/public/assets/css/header/pesquisa.css" />
   </head>
   <body>
     <header>
@@ -40,6 +53,28 @@
           </ul>
         </nav>
       </div>
+      <div class="pesquisa">
+        <img
+          class="imageSearch"
+          src="/public/assets/images/icon/search.png"
+          alt=""
+        />
+        <input
+          id="inputPesquisa"
+          type="text"
+          name="busca"
+          placeholder="Search..."
+        />
+        <button id="buttonPesquisa">Search</button>
+        <div class="notificacao">
+          <img src="/public/assets/images/icon/notification.png" alt="" />
+        </div>
+        <div class="user">
+          <img src="/public/assets/images/icon/user.png" alt="" />
+          <p class="nome">Nome ...</p>
+          <p class="usuario">founder</p>
+        </div>
+      </div>
     </header>
     <!-- <main>
       <div class="card">
@@ -50,6 +85,6 @@
         </div>
       </div>
     </main> -->
-    <script src="/public/scripts/script.js"></script>
+    <script src="/public/assets/js/script.js"></script>
   </body>
 </html>

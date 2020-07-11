@@ -1,7 +1,3 @@
-@import url("/public/assets/fonts/Roboto/Roboto-Medium.ttf");
-@import url("/public/assets/fonts/Ubuntu/Ubuntu-Medium.ttf");
-@import url("/public/assets/fonts/Barlow/Barlow-Medium.ttf");
-
 .menuShow {
   font-family: "Roboto", sans-serif;
 }
@@ -20,7 +16,7 @@
 
 .menuShow {
   width: 15vw;
-  height: 90vh;
+  height: 116vh;
   margin-top: -7%;
   background: linear-gradient(#8d75db, #767ed8);
   position: absolute;
