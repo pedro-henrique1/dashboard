@@ -1,0 +1,44 @@
+@import url("/public/assets/fonts/Roboto/Roboto-Medium.ttf");
+@import url("/public/assets/fonts/Ubuntu/Ubuntu-Medium.ttf");
+@import url("/public/assets/fonts/Barlow/Barlow-Medium.ttf");
+
+.menuShow {
+  font-family: "Roboto", sans-serif;
+}
+.tipos-text {
+  margin-top: 56%;
+  font-size: 14px;
+  margin-left: 22%;
+}
+.menuUl {
+  display: table-cell;
+}
+
+.menu {
+  margin-top: 42px;
+}
+
+.menuShow {
+  width: 15vw;
+  height: 90vh;
+  margin-top: -7%;
+  background: linear-gradient(#8d75db, #767ed8);
+  position: absolute;
+}
+
+.menuLink1,
+.menuLink2 {
+  position: absolute;
+  margin: -42px 0 0 -25px;
+}
+.menuList {
+  list-style: none;
+  margin: 27px 0 0 -32px;
+  text-align: center;
+}
+
+.menuList a {
+  color: #fff;
+  text-decoration: none;
+  margin: -52px 0 0 40px;
+}
