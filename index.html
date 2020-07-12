@@ -19,9 +19,12 @@
       rel="stylesheet"
       href="/public/assets/fonts/Barlow/Barlow-Medium.ttf"
     />
+
     <link rel="stylesheet" href="/public/assets/css/reset.css" />
     <link rel="stylesheet" href="/public/assets/css/header/menu.css" />
     <link rel="stylesheet" href="/public/assets/css/header/pesquisa.css" />
+    <link rel="stylesheet" href="/public/assets/css/header/data.css" />
+    <link rel="stylesheet" href="/public/assets/css/main/card.css" />
   </head>
   <body>
     <header>
@@ -75,16 +78,58 @@
           <p class="usuario">founder</p>
         </div>
       </div>
-    </header>
-    <!-- <main>
-      <div class="card">
-        <img class="card-img-top" src="holder.js/100px180/" alt="" />
-        <div class="card-body">
-          <h4 class="card-title">Title</h4>
-          <p class="card-text">Body</p>
+      <div class="data">
+        <p class="pagina">Dashboard</p>
+        <input type="date" name="data" id="dataInput" />
+        <div class="calendarioIcon">
+          <img
+            class="icon"
+            src="/public/assets/images/icon/calendar.png"
+            alt=""
+          />
+        </div>
+        <div class="refresh">
+          <img
+            class="icon"
+            src="/public/assets/images/icon/refresh.png"
+            alt=""
+            onClick="window.location.reload()"
+          />
+        </div>
+        <div class="filter">
+          <img
+            class="icon"
+            src="/public/assets/images/icon/filter.png"
+            alt=""
+          />
         </div>
       </div>
-    </main> -->
+    </header>
+
+    <main>
+      <div class="cards">
+        <div class="card">
+          <p id="clienteValue">cliente</p>
+          <span id="numeroCliente">36,258</span>
+          <div class="cardImg">
+            <img
+              class="iconClient"
+              src="/public/assets/images/icon/cardIcon/users.png"
+              alt=""
+            />
+          </div>
+          <div class="porcentagem">
+            <img
+              id="iconProcentagem"
+              src="/public/assets/images/icon/cardIcon/up-arrow.png"
+              alt=" icone porcentagem"
+            />
+            <p>desde o último mês</p>
+            <span>5.27% </span>
+          </div>
+        </div>
+      </div>
+    </main>
     <script src="/public/assets/js/script.js"></script>
   </body>
 </html>

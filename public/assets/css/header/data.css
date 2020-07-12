@@ -1,0 +1,43 @@
+.data {
+  font-family: "Ubunto", serif;
+  margin-right: 3rem;
+}
+.pagina {
+  margin-left: 18%;
+  color: #666787;
+}
+
+#dataInput {
+  width: 11vw;
+  height: 5vh;
+  background-color: #f1f3fa;
+  border: 1px solid #f1f3fa;
+  float: right;
+  margin: -3% 14% 0 0;
+}
+
+.calendarioIcon,
+.refresh,
+.filter {
+  width: 4vw;
+  height: 33px;
+  background-color: #727cf5;
+  margin: -3% 130px 0 0;
+  float: right;
+  border-radius: 0 5px 5px 0;
+}
+
+.icon {
+  margin-left: 14px;
+  margin-top: 2px;
+}
+
+.refresh {
+  margin: -3% 65px 0 0;
+  border-radius: 5px;
+}
+
+.filter {
+  margin: -3% 0 0 0;
+  border-radius: 5px;
+}

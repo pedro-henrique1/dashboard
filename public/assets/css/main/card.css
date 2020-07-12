@@ -1,0 +1,50 @@
+.cards {
+  width: 17vw;
+  height: 21vh;
+  background-color: #fff;
+  margin: 3% 0 0 23ch;
+  border-radius: 6px;
+  font-family: "Ubunto", sans-serif;
+}
+
+#clienteValue,
+#numeroCliente {
+  margin: 18px 0 0 1%;
+  position: absolute;
+  color: #d8d8d9;
+}
+
+#numeroCliente {
+  margin-top: 4%;
+  font-size: 1.4pc;
+  color: #6f6f70;
+}
+
+.cardImg {
+  width: 4ch;
+  height: 5vh;
+  background-color: #dbdefd;
+  float: right;
+  margin: 7% 11% 0 0;
+  border-radius: 5px;
+}
+
+.iconClient {
+  margin: 2px 0 0 8px;
+}
+
+#iconProcentagem {
+  margin: 39% 0 0 6%;
+}
+.porcentagem p {
+  font-size: 1.1ch;
+  margin: -22px 0 0 13ch;
+  position: absolute;
+  color: #c6d1e0;
+}
+.porcentagem span {
+  font-size: 1.3ch;
+  margin: 6rem 0 0 5px;
+  position: absolute;
+  color: #12d2aa;
+}
