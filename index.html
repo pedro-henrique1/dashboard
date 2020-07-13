@@ -25,6 +25,11 @@
     <link rel="stylesheet" href="/public/assets/css/header/pesquisa.css" />
     <link rel="stylesheet" href="/public/assets/css/header/data.css" />
     <link rel="stylesheet" href="/public/assets/css/main/card.css" />
+    <link rel="stylesheet" href="/public/assets/css/main/graficos.css" />
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
   </head>
   <body>
     <header>
@@ -58,24 +63,12 @@
       </div>
       <div class="pesquisa">
         <img
-          class="imageSearch"
-          src="/public/assets/images/icon/search.png"
+          class="notificaçao"
+          src="/public/assets/images/icon/notification.png"
           alt=""
         />
-        <input
-          id="inputPesquisa"
-          type="text"
-          name="busca"
-          placeholder="Search..."
-        />
-        <button id="buttonPesquisa">Search</button>
-        <div class="notificacao">
-          <img src="/public/assets/images/icon/notification.png" alt="" />
-        </div>
         <div class="user">
           <img src="/public/assets/images/icon/user.png" alt="" />
-          <p class="nome">Nome ...</p>
-          <p class="usuario">founder</p>
         </div>
       </div>
       <div class="data">
@@ -83,7 +76,7 @@
         <input type="date" name="data" id="dataInput" />
         <div class="calendarioIcon">
           <img
-            class="icon"
+            id="icon"
             src="/public/assets/images/icon/calendar.png"
             alt=""
           />
@@ -192,7 +185,13 @@
           </div>
         </div>
       </div>
+
+      <div class="grafico">
+        <p>projetos atuais</p>
+        <div id="columnchart_material" style="width: 41vw; height: 49vh;"></div>
+      </div>
     </main>
     <script src="/public/assets/js/script.js"></script>
+    <script src="/public/assets/js/grafico.js"></script>
   </body>
 </html>

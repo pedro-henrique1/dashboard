@@ -4,46 +4,13 @@
   background-color: #fff;
 }
 
-.imageSearch {
-  width: 16px;
-  position: absolute;
-  margin: 19px 0 0 14rem;
-}
-
-#inputPesquisa {
-  height: 30px;
-  margin: 10px 0 0 16%;
-  font-size: 13px;
-  background-color: #f1f3fa;
-  border: 1px solid #f1f3fa;
-  border-radius: 5px;
-  text-align: center;
-}
-#buttonPesquisa {
-  height: 34px;
-  color: #fff;
-  background-color: #727cf5;
-  border-color: #727cf5;
-  border-radius: 0 5px 5px 0px;
-  font-family: "Ubunto", sans-serif;
-  font-size: 13px;
-  margin-left: -7px;
-}
 .pesquisa {
   font-family: "Ubuntu", cursive;
 }
-.notificacao {
-  margin: -2% 0 0 86%;
+.notificaçao {
+  margin: 1% 0 0 90%;
 }
 
 .user {
-  margin: -2% 0 0 90%;
-}
-.nome {
-  margin: -22% 0 0 22%;
-}
-
-.usuario {
-  font-size: smaller;
-  margin: -1% 0 0 23%;
+  margin: -3ch 0 0 94%;
 }

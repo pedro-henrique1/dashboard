@@ -1,0 +1,22 @@
+.grafico {
+  width: 41vw;
+  height: 49vh;
+  background-color: #fff;
+  float: right;
+  margin-right: 8vh;
+  margin-top: -29ch;
+  border-radius: 5px;
+}
+
+.grafico p {
+  margin-left: 2rem;
+  font-family: "Ubunto", serif;
+  color: #bfbfd8;
+}
+#chart_div {
+  width: 41vw !important;
+}
+
+path {
+  height: 5px !important;
+}
