@@ -19,6 +19,9 @@ function drawChart() {
   ]);
 
   var options = {
+    width: 538,
+    height: 220,
+    colors: ["#9174d8", "#e3eaef"]
     // chart: {
     //   title: "Company Performance",
     //   subtitle: "Sales, Expenses, and Profit: 2014-2017"
