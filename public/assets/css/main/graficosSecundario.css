@@ -4,7 +4,7 @@
   background-color: #fff;
   margin-top: 3ch;
   border-radius: 5px;
-  margin-left: 23ch;
+  margin-left: 24ch;
   font-family: "Ubuntu", serif;
 }
 
@@ -23,13 +23,18 @@
   margin: 6ch 25px;
   position: absolute;
 }
-.legenda {
+.legenda,
+.legendaDois {
   width: 20px;
   height: 20px;
-  margin: 0 -4ch;
+  margin: 6px -4ch;
   border-radius: 50%;
   background-color: #6e78f5;
   position: absolute;
+}
+
+.legendaDois {
+  background-color: #42d9ae;
 }
 
 .semanaAtual,
