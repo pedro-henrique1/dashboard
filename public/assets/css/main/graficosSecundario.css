@@ -5,11 +5,11 @@
   margin-top: 3ch;
   border-radius: 5px;
   margin-left: 23ch;
+  font-family: "Ubuntu", serif;
 }
 
 .graficoText {
   margin-left: 3rem;
-  font-family: "Ubunto", serif;
   color: #bfbfd8;
   margin-top: 13px;
   position: absolute;
@@ -17,7 +17,39 @@
 }
 
 .valores {
-  width: 90vw;
-  height: 10vh;
-  background-color: rgb(221, 213, 213);
+  width: 46vw;
+  height: 25vh;
+  background-color: #f9f9fd;
+  margin: 6ch 25px;
+  position: absolute;
+}
+.legenda {
+  width: 20px;
+  height: 20px;
+  margin: 0 -4ch;
+  border-radius: 50%;
+  background-color: #6e78f5;
+  position: absolute;
+}
+
+.semanaAtual,
+.semanaAnterior {
+  position: absolute;
+  margin: 6ch 5ch;
+}
+
+.semanaAnterior {
+  margin-left: 50ch;
+}
+.semanaAtual p,
+.semanaAnterior p {
+  color: #c5d0dd;
+  margin: -2ch 0 0 -9px;
+}
+
+.semanaAtual h2,
+.semanaAnterior h2 {
+  font-size: 1.9rem;
+  margin: 0 0 0 -12px;
+  color: #7c8892;
 }
