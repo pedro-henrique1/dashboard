@@ -1,9 +1,9 @@
 {
   "name": "dashboard",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "serve.js",
   "scripts": {
-    "dev": "nodemon src/main.js"
+    "dev": "nodemon src/serve.js"
   },
   "repository": "https://github.com/pedro-henrique1/dashboard.git",
   "author": "pedro henrique <ph8464803@gmail.com>",
