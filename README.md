@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## links das tecnologia usadas 🔗
+## Links das tecnologia usadas 🔗
 
 👉🏼 [graficos](https://developers.google.com/chart/)<br>
 👉🏼 [html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
@@ -26,25 +26,34 @@
 ## Como usar 🎉
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e do [yarn](https://yarnpkg.com/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e do [yarn](https://yarnpkg.com/).<br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-```bash
-# Clone o repositório
-$ git clone https://github.com/pedro-henrique1/dashboard
+```zsh
+## Clone este repositório
 
-$ cd dashboard
+$ git clone https://github.com/pedro-henrique1/paginacao.git
+
+## Acesse a pasta do projeto no terminal/cmd
+
+$ cd paginacao
+
+## baixar as dependências do projeto
+
+$ yarn
+
+## Execute a aplicação em modo de desenvolvimento
 
 $ yarn dev
 
-O servidor iniciara na porta:3333 - acesse
+## O servidor iniciara na porta:3333 - acesse http://localhost:3333
 
 ```
 
 <br>
 
-# licença 📝
+# Licença 📝
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE) para obter mais informações.
 
-feito com ❤️ por Pedro Henrique 👏🏼.[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
+feito com ❤️ por Pedro Henrique 👏🏼.<br>[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
