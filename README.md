@@ -1,6 +1,17 @@
 <img src="github/tecnologia.png" align="center" width='400' />
 
 <h1 align = "center">Dashboard</h1>
+  
+<br>
+<br>
+  
+  
+<h2 align="center"> 
+	🚧 Em construção...  🚧
+</h2>
+
+<br>
+<br>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedro-henrique1/dashboard)
 ![GitHub](https://img.shields.io/github/license/pedro-henrique1/dashboard)
@@ -19,9 +30,7 @@
 👉🏼 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript)
 <br>
 
-<h4 align="center"> 
-	🚧 Em construção...  🚧
-</h4>
+
 
 ## Como usar 🎉
 
