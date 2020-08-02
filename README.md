@@ -6,9 +6,9 @@
 <br>
   
   
-<h2 align="center"> 
+<h1 align="center"> 
 	🚧 Em construção...  🚧
-</h2>
+</h1>
 
 <br>
 <br>
