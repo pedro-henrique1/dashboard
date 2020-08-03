@@ -39,11 +39,11 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```zsh
 ## Clone este repositório
 
-$ git clone https://github.com/pedro-henrique1/paginacao.git
+$ git clone https://github.com/pedro-henrique1/dashboard.git
 
 ## Acesse a pasta do projeto no terminal/cmd
 
-$ cd paginacao
+$ cd dashboard
 
 ## baixar as dependências do projeto
 
