@@ -2,11 +2,6 @@
   
 <br>
 <br>
-  
-  
-<h1 align="center"> 
-	🚧 Em construção...  🚧
-</h1>
 
 <br>
 <br>
@@ -26,6 +21,7 @@
 👉🏼 [html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
 👉🏼 [css3](https://developer.mozilla.org/pt-br/docs/web/css)<br>
 👉🏼 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript)
+<br>
 <br>
 
 ## Como usar 🎉

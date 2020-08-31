@@ -14,3 +14,15 @@
 .user {
   margin: -3ch 0 0 94%;
 }
+@media (min-width: 100px) and (max-width: 1700px) {
+  #dataInput {
+    margin-right: 30rem !important;
+    margin-top: -7rem !important;
+  }
+
+  .calendarioIcon,
+  .refresh,
+  .filter {
+    display: none;
+  }
+}
