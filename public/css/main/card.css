@@ -1,3 +1,7 @@
+.cards {
+  display: flex !important;
+  max-width: 1000px !important;
+}
 .card,
 .Rigth {
   width: 17vw;
@@ -5,7 +9,7 @@
   background-color: #fff;
   margin: 3% 0 0 23ch;
   border-radius: 6px;
-  font-family: "Ubunto", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 #clienteValue,
@@ -104,4 +108,33 @@
 
 .cardImgbottom {
   margin-top: -15% !important;
+}
+
+@media (max-width: 1000px) and (max-width: 1500px) {
+  .card {
+    width: 17rem !important;
+    display: table;
+  }
+  .responsive {
+    margin: 3rem 0 0 17rem;
+  }
+  .left {
+    margin: 3rem 0 0 7rem;
+  }
+  .Right,
+  .top {
+    margin: 40rem 0 0 0;
+  }
+
+  .iconClient {
+    margin-top: 1ch;
+  }
+  .porcentagem p {
+    margin-left: 6rem;
+    font-size: 1rem;
+  }
+  .porcentagem span {
+    margin-top: 7rem;
+    font-size: 12px;
+  }
 }

@@ -1,5 +1,3 @@
-<img src="github/tecnologia.png" align="center" width='400' />
-
 <h1 align = "center">Dashboard</h1>
   
 <br>
@@ -18,13 +16,13 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/pedro-henrique1/dashboard)
 ![GitHub top language](https://img.shields.io/github/languages/top/pedro-henrique1/dashboard)
 
-<p>A aplicação construida para treinar minha habilidade com graficos.
+<p>A aplicação construída para treinar minha habilidade com gráficos.
 <br>
 <br>
 
 ## Links das tecnologia usadas 🔗
 
-👉🏼 [graficos](https://developers.google.com/chart/)<br>
+👉🏼 [gráficos](https://developers.google.com/chart/)<br>
 👉🏼 [html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
 👉🏼 [css3](https://developer.mozilla.org/pt-br/docs/web/css)<br>
 👉🏼 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript)
@@ -53,7 +51,7 @@ $ yarn
 
 $ yarn dev
 
-## O servidor iniciara na porta:3333 - acesse http://localhost:3333
+## O servidor iniciara na porta:3333 - acesse http://localhost:3000
 
 ```
 

@@ -13,3 +13,12 @@
   font-family: "Ubunto", serif;
   color: #bfbfd8;
 }
+
+@media (max-width: 1000px) {
+  .grafico {
+    margin-top: 20rem;
+    margin: 14rem 11rem 0 0;
+    width: 36rem;
+    height: 20rem;
+  }
+}
