@@ -10,15 +10,20 @@
 
 .grafico p {
   margin-left: 2rem;
-  font-family: "Ubunto", serif;
+  font-family: "Ubuntu", serif;
   color: #bfbfd8;
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 580px) and (max-width: 1900px) {
   .grafico {
-    margin-top: 20rem;
-    margin: 14rem 11rem 0 0;
+    margin: 2rem 8rem 0 0;
     width: 36rem;
     height: 20rem;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 880px) {
+  .grafico {
+    margin-right: 16ch;
   }
 }

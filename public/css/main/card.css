@@ -1,6 +1,7 @@
 .cards {
-  display: flex !important;
+  display: grid !important;
   max-width: 1000px !important;
+  grid-template-columns: repeat(2, 1fr);
 }
 .card,
 .Rigth {
@@ -110,7 +111,7 @@
   margin-top: -15% !important;
 }
 
-@media (max-width: 1000px) and (max-width: 1500px) {
+@media (min-width: 580px) and (max-width: 1900px) {
   .card {
     width: 17rem !important;
     display: table;
@@ -119,13 +120,36 @@
     margin: 3rem 0 0 17rem;
   }
   .left {
-    margin: 3rem 0 0 7rem;
-  }
-  .Right,
-  .top {
-    margin: 40rem 0 0 0;
+    margin: 3rem 0 0 3rem;
   }
 
+  .top {
+    margin: 2rem 0rem 0 17rem;
+  }
+  .Right {
+    margin: 2rem 0 0 3rem !important;
+    margin-left: 0;
+  }
+  .cardImgRight {
+    margin-top: 1rem !important;
+  }
+  .cardImgbottom {
+    margin-top: 1rem !important;
+  }
+  .porcentagemRight {
+    margin-top: 1rem;
+  }
+  .porcentagemRight p {
+    font-size: 1rem;
+    margin: -3ch 0 0 1rem;
+  }
+
+  .porcentagemRight span {
+    margin: -1rem 0 0 -2rem !important;
+  }
+  #iconProcentagemRight {
+    margin: 8rem 0 0 -4rem !important;
+  }
   .iconClient {
     margin-top: 1ch;
   }
@@ -136,5 +160,12 @@
   .porcentagem span {
     margin-top: 7rem;
     font-size: 12px;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 880px) {
+  .responsive,
+  .top {
+    margin-left: 10rem !important;
   }
 }

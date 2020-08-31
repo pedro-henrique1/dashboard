@@ -6,11 +6,9 @@
   font-size: 14px;
   margin-left: 22%;
 }
-.menuUl {
-  display: table-cell;
-}
 
 .menu {
+  margin: 42px 6rem 0 0;
   margin-top: 42px;
 }
 
@@ -37,4 +35,15 @@
   color: #fff;
   text-decoration: none;
   margin: -52px 0 0 40px;
+}
+
+@media (max-width: 1000px) {
+  .menuShow {
+    max-width: 1000px !important;
+  }
+}
+
+@media (max-width: 850px) {
+  .menuShow {
+  }
 }

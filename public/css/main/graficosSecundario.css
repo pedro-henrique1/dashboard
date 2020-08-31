@@ -61,14 +61,20 @@
   color: #7c8892;
 }
 
-@media (max-width: 1000px) and (max-width: 1500px) {
+@media (min-width: 580px) and (max-width: 1900px) {
   .graficoSecundário {
     width: 43rem;
     height: 20rem;
-    margin-top: 37rem !important;
+    margin: 26rem 0 0 16rem !important;
   }
   .valores {
     display: flex;
     width: 40rem;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 880px) {
+  .graficoSecundário {
+    margin-left: 16ch !important;
   }
 }
