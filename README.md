@@ -1,10 +1,3 @@
-<img src="./github/Sem título.png" align="center">
-
-<br>
-<br>
-<br>
-<br>
-
 <h1 align = "center">Dashboard</h1>
 
 <br>
