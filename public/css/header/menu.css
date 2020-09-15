@@ -18,6 +18,7 @@
   margin-top: -7%;
   background: linear-gradient(#8d75db, #767ed8);
   position: absolute;
+  max-width: 13vw !important;
 }
 
 .menuLink1,

@@ -1,7 +1,11 @@
+<img src="./github/Sem título.png" align="center">
+
+<br>
+<br>
+<br>
+<br>
+
 <h1 align = "center">Dashboard</h1>
-  
-<br>
-<br>
 
 <br>
 <br>
@@ -47,7 +51,7 @@ $ yarn
 
 $ yarn dev
 
-## O servidor iniciara na porta:3333 - acesse http://localhost:3000
+## O servidor iniciara na porta:3000 - acesse http://localhost:3000
 
 ```
 

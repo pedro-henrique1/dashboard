@@ -162,6 +162,11 @@
     font-size: 12px;
   }
 }
+@media (min-width: 1696px) and (max-width: 2820px) {
+  .cards {
+    margin-left: 3rem !important;
+  }
+}
 
 @media (min-width: 700px) and (max-width: 880px) {
   .responsive,

@@ -14,9 +14,14 @@
   color: #bfbfd8;
 }
 
+@media (max-width: 1618px) {
+  .grafico {
+    margin-top: 2rem !important;
+  }
+}
 @media (min-width: 580px) and (max-width: 1900px) {
   .grafico {
-    margin: 2rem 8rem 0 0;
+    margin: -21rem 8rem 0 0;
     width: 36rem;
     height: 20rem;
   }
