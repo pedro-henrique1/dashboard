@@ -27,6 +27,16 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "joaolucassilva",
+      "name": "João Lucas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32723985?v=4",
+      "profile": "https://github.com/joaolucassilva",
+      "contributions": [
+        "maintenance",
+        "platform"
+      ]
     }
   ],
   "contributorsPerLine": 7
