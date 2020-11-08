@@ -8,22 +8,13 @@
   ],
   "imageSize": 100,
   "commit": true,
-  "commitConvention": "gitmoji",
+  "commitConvention": "eslint",
   "contributors": [
     {
       "login": "jfmengels",
       "name": "Jeroen Engels",
       "avatar_url": "https://avatars1.githubusercontent.com/u/3869412?v=4",
       "profile": "https://jfmengels.net/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "pedro",
-      "name": "Pedro Belo",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/2248?v=4",
-      "profile": "https://github.com/pedro",
       "contributions": [
         "doc"
       ]
