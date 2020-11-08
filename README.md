@@ -1,17 +1,7 @@
 <h1 align = "center">Dashboard</h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
+<br/>
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<br>
-<br>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedro-henrique1/dashboard)
 ![GitHub](https://img.shields.io/github/license/pedro-henrique1/dashboard)
 ![GitHub language count](https://img.shields.io/github/languages/count/pedro-henrique1/dashboard)
