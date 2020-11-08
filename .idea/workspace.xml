@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k0slwn9mxGdHPWlFRxs0q08dqP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.contributors:generate">
+    <configuration name="contributors:generate" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="contributors:generate" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.contributors:generate" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="" />
+      <created>1604849000696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604849000696</updated>
+      <workItem from="1604849003493" duration="4566000" />
+    </task>
+    <task id="LOCAL-00001" summary=":arrow_up: upgrade nas dependencias">
+      <created>1604849187615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604849187615</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":memo: adicionando contribuidor no readme">
+      <created>1604854824657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604854824657</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":memo: adicionando contribuidor no readme">
+      <created>1604857055828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604857055828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":arrow_up: upgrade nas dependencias" />
+    <MESSAGE value=":memo: adicionando contribuidor no readme" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: adicionando contribuidor no readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1131" y="355" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604856679424">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1131" y="355" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1604856679424" />
+    <state width="1897" height="278" key="GridCell.Tab.0.bottom" timestamp="1604854653269">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
+    <state width="1897" height="278" key="GridCell.Tab.0.center" timestamp="1604854653269">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
+    <state width="1897" height="278" key="GridCell.Tab.0.left" timestamp="1604854653268">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653268" />
+    <state width="1897" height="278" key="GridCell.Tab.0.right" timestamp="1604854653269">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
+    <state x="1013" y="290" width="824" height="526" key="IDE.errors.dialog" timestamp="1604849043113">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1013" y="290" width="824" height="526" key="IDE.errors.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604849043113" />
+    <state x="1025" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1604857067958">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1025" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1604857067958" />
+  </component>
+</project>
