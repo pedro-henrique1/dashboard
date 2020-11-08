@@ -18,6 +18,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pedro",
+      "name": "Pedro Belo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2248?v=4",
+      "profile": "https://github.com/pedro",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7

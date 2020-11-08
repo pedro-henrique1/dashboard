@@ -1,6 +1,6 @@
 <h1 align = "center">Dashboard</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://jfmengels.net/"><img src="https://avatars1.githubusercontent.com/u/3869412?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/pedro-henrique1/dashboard/commits?author=jfmengels" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pedro"><img src="https://avatars2.githubusercontent.com/u/2248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Belo</b></sub></a><br /><a href="#maintenance-pedro" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
