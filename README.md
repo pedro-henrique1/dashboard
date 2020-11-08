@@ -74,6 +74,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/joaolucassilva"><img src="https://avatars3.githubusercontent.com/u/32723985?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Lucas</b></sub></a><br /><a href="#maintenance-joaolucassilva" title="Maintenance">🚧</a> <a href="#platform-joaolucassilva" title="Packaging/porting to new platform">📦</a></td>
+    <td align="center"><a href="https://github.com/pedro-henrique1"><img src="https://avatars3.githubusercontent.com/u/59630520?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pedroHenrique</b></sub></a><br /><a href="#maintenance-pedro-henrique1" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 

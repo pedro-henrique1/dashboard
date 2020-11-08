@@ -11,24 +11,6 @@
   "commitConvention": "eslint",
   "contributors": [
     {
-      "login": "jfmengels",
-      "name": "Jeroen Engels",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3869412?v=4",
-      "profile": "https://jfmengels.net/",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "pedro",
-      "name": "Pedro Belo",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/2248?v=4",
-      "profile": "https://github.com/pedro",
-      "contributions": [
-        "maintenance"
-      ]
-    },
-    {
       "login": "joaolucassilva",
       "name": "João Lucas",
       "avatar_url": "https://avatars3.githubusercontent.com/u/32723985?v=4",
@@ -36,6 +18,15 @@
       "contributions": [
         "maintenance",
         "platform"
+      ]
+    },
+    {
+      "login": "pedro-henrique1",
+      "name": "pedroHenrique",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59630520?v=4",
+      "profile": "https://github.com/pedro-henrique1",
+      "contributions": [
+        "maintenance"
       ]
     }
   ],
