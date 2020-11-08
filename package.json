@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "serve.js",
   "scripts": {
-    "dev": "nodemon src/serve.js"
+    "dev": "nodemon src/serve.js",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "repository": "https://github.com/pedro-henrique1/dashboard.git",
   "author": "pedro henrique <ph8464803@gmail.com>",
@@ -11,5 +13,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "2.0.6"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.19.0"
   }
 }
