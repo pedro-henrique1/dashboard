@@ -14,21 +14,22 @@
   color: #bfbfd8;
 }
 
-@media (max-width: 1618px) {
+/* @media (max-width: 1618px) {
   .grafico {
-    margin-top: 2rem !important;
+    margin: -55 0 0 0;
+    margin-top: -55rem !important;
   }
-}
+} */
 @media (min-width: 580px) and (max-width: 1900px) {
   .grafico {
-    margin: -21rem 8rem 0 0;
+    margin: 2rem 25rem 0 0;
     width: 36rem;
     height: 20rem;
   }
 }
-
+/* 
 @media (min-width: 700px) and (max-width: 880px) {
   .grafico {
     margin-right: 16ch;
   }
-}
+} */
