@@ -16,9 +16,14 @@
   width: 15vw;
   height: 116vh;
   margin-top: -7%;
-  background: linear-gradient(#8d75db, #767ed8);
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(253, 193, 104, 1) 0%,
+    rgba(251, 128, 128, 1) 90%
+  );
   position: absolute;
   max-width: 13vw !important;
+  min-width: 13vw !important;
 }
 
 .menuLink1,

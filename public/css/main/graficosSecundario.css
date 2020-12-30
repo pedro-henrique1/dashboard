@@ -61,17 +61,24 @@
   color: #7c8892;
 }
 
-@media (min-width: 580px) and (max-width: 1900px) {
+@media (min-width: 500px) {
+  .graficoSecundário {
+    margin: 27rem 0 0 17rem !important;
+    width: 43rem;
+  }
+}
+
+/* @media (min-width: 580px) and (max-width: 1900px) {
   .graficoSecundário {
     width: 43rem;
     height: 20rem;
-    margin: 26rem 0 0 16rem !important;
+    margin: -30rem 0 0 35rem !important;
   }
   .valores {
     display: flex;
     width: 40rem;
   }
-}
+} */
 
 @media (min-width: 700px) and (max-width: 880px) {
   .graficoSecundário {
