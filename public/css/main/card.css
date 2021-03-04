@@ -13,14 +13,14 @@
   font-family: "Ubuntu", sans-serif;
 }
 
-#clienteValue,
-#numeroCliente {
+.clienteValue,
+.numeroCliente {
   margin: 18px 0 0 1%;
   position: absolute;
   color: #bfbfd8;
 }
 
-#numeroCliente {
+.numeroCliente {
   margin-top: 4%;
   font-size: 1.4pc;
   color: #6f6f70;
@@ -41,13 +41,13 @@
   margin: 2px 0 0 8px;
 }
 
-#iconProcentagem {
+.iconProcentagem {
   margin: 39% 0 0 6%;
 }
 
 .iconProcentagemRight {
   margin-left: -11ch;
-  margin-top: 6ch;
+  margin-top: 19ch;
 }
 .porcentagem p,
 .porcentagemRight {
