@@ -51,7 +51,7 @@ $ yarn dev
 
 # Licença 📝
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE.md) para obter mais informações.
 
 feito com ❤️ por Pedro Henrique 👏🏼.<br>
 <br>

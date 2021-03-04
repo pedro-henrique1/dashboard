@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/main/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/main/graficos.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main/graficos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pedro &lt;ph8464803@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -106,7 +107,7 @@
       <updated>1604849000696</updated>
       <workItem from="1604849003493" duration="4566000" />
       <workItem from="1614886980735" duration="1241000" />
-      <workItem from="1614888382252" duration="4201000" />
+      <workItem from="1614888382252" duration="4564000" />
     </task>
     <task id="LOCAL-00001" summary=":arrow_up: upgrade nas dependencias">
       <created>1604849187615</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604857055828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update no css">
+      <created>1614895218682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614895218682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":arrow_up: upgrade nas dependencias" />
     <MESSAGE value=":memo: adicionando contribuidor no readme" />
-    <option name="LAST_COMMIT_MESSAGE" value=":memo: adicionando contribuidor no readme" />
+    <MESSAGE value="update no css" />
+    <option name="LAST_COMMIT_MESSAGE" value="update no css" />
   </component>
 </project>
