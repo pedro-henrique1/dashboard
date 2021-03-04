@@ -15,6 +15,7 @@
     "nodemon": "2.0.6"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.19.0"
+    "all-contributors-cli": "^6.19.0",
+    "jquery": "^3.6.0"
   }
 }

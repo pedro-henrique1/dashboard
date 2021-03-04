@@ -19,11 +19,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="" />
+    <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main/graficos.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main/graficos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1k0slwn9mxGdHPWlFRxs0q08dqP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,6 +57,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,9 +65,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.contributors:generate">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="contributors:generate" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -62,14 +85,14 @@
       <scripts>
         <script value="dev" />
       </scripts>
-      <node-interpreter value="project" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v14.15.0/bin/node" />
       <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.contributors:generate" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.contributors:generate" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604849000696</updated>
       <workItem from="1604849003493" duration="4566000" />
+      <workItem from="1614886980735" duration="1241000" />
+      <workItem from="1614888382252" duration="4201000" />
     </task>
     <task id="LOCAL-00001" summary=":arrow_up: upgrade nas dependencias">
       <created>1604849187615</created>
@@ -120,40 +145,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":arrow_up: upgrade nas dependencias" />
     <MESSAGE value=":memo: adicionando contribuidor no readme" />
     <option name="LAST_COMMIT_MESSAGE" value=":memo: adicionando contribuidor no readme" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1131" y="355" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604856679424">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1131" y="355" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1604856679424" />
-    <state width="1897" height="278" key="GridCell.Tab.0.bottom" timestamp="1604854653269">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1897" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
-    <state width="1897" height="278" key="GridCell.Tab.0.center" timestamp="1604854653269">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1897" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
-    <state width="1897" height="278" key="GridCell.Tab.0.left" timestamp="1604854653268">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1897" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653268" />
-    <state width="1897" height="278" key="GridCell.Tab.0.right" timestamp="1604854653269">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1897" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1604854653269" />
-    <state x="1013" y="290" width="824" height="526" key="IDE.errors.dialog" timestamp="1604849043113">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1013" y="290" width="824" height="526" key="IDE.errors.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604849043113" />
-    <state x="1025" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1604857067958">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1025" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1604857067958" />
   </component>
 </project>

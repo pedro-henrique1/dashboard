@@ -1,200 +1,199 @@
 <!DOCTYPE html>
 <html lang="pt_br">
-  <head>
+<head>
     <title>Title</title>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <link rel="stylesheet" href="/public/fonts/Roboto/Roboto-Medium.ttf" />
-    <link rel="stylesheet" href="/public/fonts/Ubuntu/Ubuntu-Medium.ttf" />
-    <link rel="stylesheet" href="/public/fonts/Barlow/Barlow-Medium.ttf" />
+    <link rel="font/ttf" href="/fonts/Roboto/Roboto-Medium.ttf"/>
+    <link rel="font/ttf" href="/fonts/Ubuntu/Ubuntu-Medium.ttf"/>
+    <link rel="font/ttf" href="/fonts/Barlow/Barlow-Medium.ttf"/>
 
-    <link rel="stylesheet" href="/css/reset.css" />
-    <link rel="stylesheet" href="/css/header/menu.css" />
-    <link rel="stylesheet" href="/css/header/pesquisa.css" />
-    <link rel="stylesheet" href="/css/header/data.css" />
-    <link rel="stylesheet" href="/css/main/card.css" />
-    <link rel="stylesheet" href="/css/main/graficos.css" />
-    <link rel="stylesheet" href="/css/main/mapa.css" />
-    <link rel="stylesheet" href="/css/main/graficosSecundario.css" />
+    <link rel="stylesheet" href="/css/reset.css"/>
+    <link rel="stylesheet" href="/css/header/menu.css"/>
+    <link rel="stylesheet" href="/css/header/pesquisa.css"/>
+    <link rel="stylesheet" href="/css/header/data.css"/>
+    <link rel="stylesheet" href="/css/main/card.css"/>
+    <link rel="stylesheet" href="/css/main/graficos.css"/>
+    <link rel="stylesheet" href="/css/main/graficosSecundario.css"/>
     <script
-      type="text/javascript"
-      src="https://www.gstatic.com/charts/loader.js"
+            type="text/javascript"
+            src="https://www.gstatic.com/charts/loader.js"
     ></script>
-  </head>
-  <body>
-    <header style="max-width: 1679px">
-      <div class="menuShow">
+</head>
+<body>
+<header style="max-width: 1679px">
+    <div class="menuShow container">
         <div class="tipos">
-          <p class="tipos-text">navegação</p>
+            <p class="tipos-text">navegação</p>
         </div>
         <nav class="menu">
-          <ul class="menuUl">
-            <img src="/images/icon/performance.png" alt="" />
-            <li class="menuList">
-              <a class="menuLink1" href="https://google.com">dashboard</a>
-            </li>
+            <ul class="menuUl">
+                <img src="/images/icon/performance.png" alt=""/>
+                <li class="menuList">
+                    <a class="menuLink1" href="https://google.com">dashboard</a>
+                </li>
 
-            <img src="/images/icon/app.png" alt="" />
-            <li class="menuList">
-              <a class="menuLink2" href="http://">app</a>
-            </li>
+                <img src="/images/icon/app.png" alt=""/>
+                <li class="menuList">
+                    <a class="menuLink2" href="http://">app</a>
+                </li>
 
-            <img src="/images/icon/paper.png" alt="" />
-            <li class="menuList">
-              <a class="menuLink2" href="http://">pages</a>
-            </li>
+                <img src="/images/icon/paper.png" alt=""/>
+                <li class="menuList">
+                    <a class="menuLink2" href="http://">pages</a>
+                </li>
 
-            <img src="/images/icon/dashboard.png" alt="" />
-            <li class="menuList">
-              <a class="menuLink2" href="http://">layouts</a>
-            </li>
-          </ul>
+                <img src="/images/icon/dashboard.png" alt=""/>
+                <li class="menuList">
+                    <a class="menuLink2" href="http://">layouts</a>
+                </li>
+            </ul>
         </nav>
-      </div>
-      <div class="pesquisa">
-        <img class="notificação" src="/images/icon/notification.png" alt="" />
+    </div>
+    <div class="pesquisa">
+        <img class="notificação" src="/images/icon/notification.png" alt=""/>
         <div class="user">
-          <img src="/images/icon/user.png" alt="" />
+            <img src="/images/icon/user.png" alt=""/>
         </div>
-      </div>
-      <div class="data">
+    </div>
+    <div class="data">
         <p class="pagina">Dashboard</p>
-        <input type="date" name="data" id="dataInput" />
+        <label for="dataInput"></label><input type="date" name="data" id="dataInput"/>
         <div class="calendarioIcon">
-          <img id="icon" src="/images/icon/calendar.png" alt="" />
+            <img id="icon" src="/images/icon/calendar.png" alt=""/>
         </div>
         <div class="refresh">
-          <img
-            id="icon"
-            src="/images/icon/refresh.png"
-            alt=""
-            onClick="window.location.reload()"
-          />
+            <img
+                    id="icon"
+                    src="/images/icon/refresh.png"
+                    alt=""
+                    onClick="window.location.reload()"
+            />
         </div>
         <div class="filter">
-          <img id="icon" src="/images/icon/filter.png" alt="" />
+            <img id="icon" src="/images/icon/filter.png" alt=""/>
         </div>
-      </div>
-    </header>
+    </div>
+</header>
 
-    <main>
-      <div class="cards">
+<main>
+    <div class="cards">
         <div class="card responsive">
-          <p id="clienteValue">cliente</p>
-          <span id="numeroCliente">36,258</span>
-          <div class="cardImg">
-            <img
-              class="iconClient"
-              src="/images/icon/cardIcon/users.png"
-              alt=""
-            />
-          </div>
-          <div class="porcentagem">
-            <img
-              id="iconProcentagem"
-              src="/images/icon/cardIcon/up-arrow.png"
-              alt=" ícone porcentagem"
-            />
-            <p>desde o último mês</p>
-            <span>5.27% </span>
-          </div>
+            <p id="clienteValue">cliente</p>
+            <span id="numeroCliente">36,258</span>
+            <div class="cardImg">
+                <img
+                        class="iconClient"
+                        src="/images/icon/cardIcon/users.png"
+                        alt=""
+                />
+            </div>
+            <div class="porcentagem">
+                <img
+                        id="iconProcentagem"
+                        src="/images/icon/cardIcon/up-arrow.png"
+                        alt=" ícone porcentagem"
+                />
+                <p>desde o último mês</p>
+                <span>5.27% </span>
+            </div>
         </div>
 
         <div class="card left">
-          <p id="clienteValue">Receita</p>
-          <span id="numeroCliente">6,254</span>
-          <div class="cardImg">
-            <img
-              class="iconClient"
-              src="/images/icon/cardIcon/money.png"
-              alt=""
-            />
-          </div>
-          <div class="porcentagem">
-            <img
-              id="iconProcentagem"
-              src="/images/icon/cardIcon/download.png"
-              alt=" ícone porcentagem"
-            />
-            <p>desde o último mês</p>
-            <span id="porcentagemNegativa">7.00% </span>
-          </div>
+            <p id="clienteValue">Receita</p>
+            <span id="numeroCliente">6,254</span>
+            <div class="cardImg">
+                <img
+                        class="iconClient"
+                        src="/images/icon/cardIcon/money.png"
+                        alt=""
+                />
+            </div>
+            <div class="porcentagem">
+                <img
+                        id="iconProcentagem"
+                        src="/images/icon/cardIcon/download.png"
+                        alt=" ícone porcentagem"
+                />
+                <p>desde o último mês</p>
+                <span id="porcentagemNegativa">7.00% </span>
+            </div>
         </div>
 
         <div class="card top">
-          <p id="clienteValue">crescimento</p>
-          <span id="numeroCliente">+30.56%</span>
-          <div class="cardImgbottom">
-            <img
-              class="iconClientbottom"
-              src="/images/icon/cardIcon/graph.png"
-              alt=""
-            />
-          </div>
-          <div class="porcentagemRight">
-            <img
-              id="iconProcentagemRight"
-              src="/images/icon/cardIcon/up-arrow.png"
-              alt=" ícone porcentagem"
-            />
-            <p>desde o último mês</p>
-            <span id="porcentagemBottom">4.87%</span>
-          </div>
+            <p id="clienteValue">crescimento</p>
+            <span id="numeroCliente">+30.56%</span>
+            <div class="cardImgbottom">
+                <img
+                        class="iconClientbottom"
+                        src="/images/icon/cardIcon/graph.png"
+                        alt=""
+                />
+            </div>
+            <div class="porcentagemRight">
+                <img
+                        id="iconProcentagemRight"
+                        src="/images/icon/cardIcon/up-arrow.png"
+                        alt=" ícone porcentagem"
+                />
+                <p>desde o último mês</p>
+                <span id="porcentagemBottom">4.87%</span>
+            </div>
         </div>
 
         <div class="card Right">
-          <p id="clienteValue">Comprar</p>
-          <span id="numeroCliente">5,543</span>
-          <div class="cardImgRight">
-            <img
-              class="iconClientRight"
-              src="/images/icon/cardIcon/shopping-cart.png"
-              alt=""
-            />
-          </div>
-          <div class="porcentagemRight">
-            <img
-              id="iconProcentagemRight"
-              src="/images/icon/cardIcon/download.png"
-              alt=" icone porcentagem"
-            />
-            <p>desde o último mês</p>
-            <span id="porcentagemNegativaRigth">1.08% </span>
-          </div>
+            <p id="clienteValue">Comprar</p>
+            <span id="numeroCliente">5,543</span>
+            <div class="cardImgRight">
+                <img
+                        class="iconClientRight"
+                        src="/images/icon/cardIcon/shopping-cart.png"
+                        alt=""
+                />
+            </div>
+            <div class="porcentagemRight">
+                <img
+                        id="iconProcentagemRight"
+                        src="/images/icon/cardIcon/download.png"
+                        alt=" icone porcentagem"
+                />
+                <p>desde o último mês</p>
+                <span id="porcentagemNegativaRigth">1.08% </span>
+            </div>
         </div>
-      </div>
+    </div>
 
-      <div class="grafico">
+    <div class="grafico">
         <p>projetos atuais</p>
         <div id="columnchart_material"></div>
-      </div>
+    </div>
 
-      <div class="graficoSecundário">
+    <div class="graficoSecundário">
         <p class="graficoText">revenue</p>
         <div class="valores">
-          <div class="semanaAtual">
-            <div class="legenda"></div>
-            <p>semana atual</p>
-            <h2>$58,254</h2>
-          </div>
-          <div class="semanaAnterior">
-            <div class="legendaDois"></div>
-            <p>semana anterior</p>
-            <h2>$69,524</h2>
-          </div>
-          <div
-            id="curve_chart"
-            style="margin: 19ch 0 0 -3ch; text-align: center"
-          ></div>
+            <div class="semanaAtual">
+                <div class="legenda"></div>
+                <p>semana atual</p>
+                <h2>$58,254</h2>
+            </div>
+            <div class="semanaAnterior">
+                <div class="legendaDois"></div>
+                <p>semana anterior</p>
+                <h2>$69,524</h2>
+            </div>
+            <div
+                    id="curve_chart"
+                    style="margin: 19ch 0 0 -3ch; text-align: center"
+            ></div>
         </div>
-      </div>
-    </main>
+    </div>
+</main>
 
-    <script src="/js/script.js"></script>
-    <script src="/js/grafico.js"></script>
-    <script src="/js/graficosSecundario.js"></script>
-  </body>
+<script src="/js/script.js"></script>
+<script src="/js/grafico.js"></script>
+<script src="/js/graficosSecundario.js"></script>
+</body>
 </html>

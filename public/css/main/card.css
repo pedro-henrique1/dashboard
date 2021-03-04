@@ -168,7 +168,7 @@
   }
 }
 
-@media (max-width: 1620px) {
+@media (min-width: 1620px) and (max-width: 1890px) {
   .cards {
     grid-template-columns: repeat(1, 1fr) !important;
   }

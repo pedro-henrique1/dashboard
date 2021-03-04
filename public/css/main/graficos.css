@@ -1,17 +1,17 @@
 .grafico {
-  width: 41vw;
-  height: 49vh;
-  background-color: #fff;
-  float: right;
-  margin-right: 8vh;
-  margin-top: -29ch;
-  border-radius: 5px;
+    width: 41vw;
+    height: 49vh;
+    background-color: #fff;
+    float: right;
+    margin-right: 8vh;
+    margin-top: -29ch;
+    border-radius: 5px;
 }
 
 .grafico p {
-  margin-left: 2rem;
-  font-family: "Ubuntu", serif;
-  color: #bfbfd8;
+    margin-left: 2rem;
+    font-family: "Ubuntu", serif;
+    color: #bfbfd8;
 }
 
 /* @media (max-width: 1618px) {
@@ -21,13 +21,14 @@
   }
 } */
 @media (min-width: 580px) and (max-width: 1900px) {
-  .grafico {
-    margin: 2rem 25rem 0 0;
-    width: 36rem;
-    height: 20rem;
-  }
+    .grafico {
+        margin: 8rem 15rem 0 0;
+        width: 36rem;
+        height: 20rem;
+    }
 }
-/* 
+
+/*
 @media (min-width: 700px) and (max-width: 880px) {
   .grafico {
     margin-right: 16ch;
