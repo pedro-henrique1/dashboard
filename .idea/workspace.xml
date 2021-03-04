@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/header/data.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/header/data.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/header/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/header/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/main/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main/card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e0816a7a-48d6-4022-999e-156d76ff6cc7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +63,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -111,7 +105,7 @@
       <workItem from="1604849003493" duration="4566000" />
       <workItem from="1614886980735" duration="1241000" />
       <workItem from="1614888382252" duration="4932000" />
-      <workItem from="1614895798088" duration="978000" />
+      <workItem from="1614895798088" duration="1261000" />
     </task>
     <task id="LOCAL-00001" summary=":arrow_up: upgrade nas dependencias">
       <created>1604849187615</created>
@@ -148,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614895443457</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update css">
+      <created>1614896846954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614896846954</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +172,7 @@
     <MESSAGE value=":memo: adicionando contribuidor no readme" />
     <MESSAGE value="update no css" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="update css" />
+    <option name="LAST_COMMIT_MESSAGE" value="update css" />
   </component>
 </project>
